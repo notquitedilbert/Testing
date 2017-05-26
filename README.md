@@ -19,8 +19,6 @@ this is just a quick test
 
 And so is this
 
-
-
 ```
 "terminal": {
 ```
@@ -30,6 +28,21 @@ And so is this
     "fade": false,
     "style": "classic",
   }
+  
+  
+ 
+```
+
+```
+**[terminal]
+```
+
+thisjdaflkdas
+
+
+
+```
+ this is a test
 ```
 
 
