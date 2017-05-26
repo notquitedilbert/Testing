@@ -1,6 +1,5 @@
 # Testing
 
-
 ```
 **[terminal]
 **[prompt foo@joe]**[path ~]**[delimiter  $ ]**[command ./myscript]

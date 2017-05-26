@@ -1,1 +1,17 @@
-{"plugins": [ "terminal"]}
+{
+	"plugins": [
+		"terminal"
+	],
+	"pluginsConfig": {
+		"terminal": {
+			"copyButtons": false,
+			"fade": false,
+			"style": "classic"
+		},
+		"fontsettings": {
+			"theme": "white",
+			"family": "sans",
+			"size": 3
+		}
+	}
+}
