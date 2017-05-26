@@ -1,18 +1,3 @@
----
-plugins:
-  - packt-fontsettings
-  - 'terminal,'
-pluginsConfig:
-  fontsettings:
-    family: sans
-    // 'serif' or 'sans': null
-    size: '4 // 1 - 4,'
-  terminal:
-    - copyButtons: 'true,'
-    - fade: 'false,'
-    - style: classic
----
-
 # Testing
 
 this is just a quick test
@@ -28,9 +13,6 @@ And so is this
     "fade": false,
     "style": "classic",
   }
-  
-  
- 
 ```
 
 ```
@@ -39,11 +21,7 @@ And so is this
 
 thisjdaflkdas
 
-
-
 ```
  this is a test
 ```
-
-
 
